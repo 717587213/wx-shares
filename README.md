@@ -15,8 +15,6 @@ A股行情展示小程序，包含小程序前台、后台，支持个股、板�
 
 ## 截图
 
-https://github.com/daichaoren/stockMarket/raw/master/img/firstPage.png
-
 ![](https://github.com/daichaoren/stockMarket/raw/master/img/hotTop.png) 
 
 ![](https://github.com/daichaoren/stockMarket/raw/master/img/stock.png) 
