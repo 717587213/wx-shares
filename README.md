@@ -15,7 +15,7 @@ A股行情展示小程序，包含小程序前台、后台，支持个股、板�
 
 ## 截图
 
-![](https://github.com/daichaoren/stockMarket/raw/master/img/firstPage.png)  
+https://github.com/daichaoren/stockMarket/raw/master/img/firstPage.png
 
 ![](https://github.com/daichaoren/stockMarket/raw/master/img/hotTop.png) 
 
@@ -35,8 +35,4 @@ A股行情展示小程序，包含小程序前台、后台，支持个股、板�
  个股行情数据用的是新浪财经，板块和排行榜用的是东方财富，分时和K线图只画了个示例，具体数据准备今后应用腾讯股票数据
  
  如果有什么问题请给我提issue
- 
- #### 赞助
- 
- ![](https://github.com/daichaoren/stockMarket/raw/master/img/wx.png) 
- ![](https://github.com/daichaoren/stockMarket/raw/master/img/ali.png)
+
